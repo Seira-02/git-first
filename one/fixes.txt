@@ -6,4 +6,4 @@ add footer note
 one more bug detected and fixed
 fourth bug fixed
 fifth bug fixed
-
+another fix message for pink mode
